@@ -1,2 +1,2 @@
 # odin-recipes
-Website to display multiple recipes and provide instructions for them
+Display's multiple recipes for quick and easy use.
