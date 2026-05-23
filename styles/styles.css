@@ -27,6 +27,14 @@
     font-size: 10px;
 }
 
-ul {
+ul, ol {
     list-style-type: none;
+}
+
+.instructions {
+    margin: 0 auto;
+    padding: 5px;
+    width: 50%;
+    background-color: rgb(149, 149, 149);
+    text-align: center;
 }
